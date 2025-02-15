@@ -1,5 +1,7 @@
 HGX gear extruder for archetyoe toolhead
 
+When printing you will need to split the part. Orca and Bambu slicer have this function if you right click.
+
 klipper config info
 [extruder]
 rotation_distance: 53.494165  # Re-calibrate your own value
