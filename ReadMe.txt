@@ -1,5 +1,13 @@
 HGX gear extruder for archetyoe toolhead
-https://www.aliexpress.com/item/1005004699143725.html?spm=a2g0o.order_list.order_list_main.5.4e4f1802knTc39 gears used
+
+klipper config info
+[extruder]
+rotation_distance: 53.494165  # Re-calibrate your own value
+gear_ratio: 44:10, 37:17
+
+direction pin should not need to be flipped
+
+Gears used https://www.aliexpress.com/item/1005004699143725.html?spm=a2g0o.order_list.order_list_main.5.4e4f1802knTc39
 
 Inspired by https://github.com/odbee/shepherd
 and
