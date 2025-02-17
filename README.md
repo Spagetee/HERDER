@@ -1,6 +1,7 @@
 HGX gear extruder for archetyoe toolhead
 
 ![Alt text](/images/image.png)
+![Alt text](/images/IMG_20250217_110813.jpg)
 
 When printing you will need to split the part. Orca and Bambu slicer have this function if you right click.
 
